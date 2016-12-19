@@ -1,15 +1,15 @@
 ## Objects, Inheritance, and Polymorphism
 
-*Sidd Singal (siddharth.singal@students.olin.edu)*
-*James Jang (Byumho.Jang@students.olin.edu)*
-*Programming Languages*
-*Fall 2016*
+*Sidd Singal (siddharth.singal@students.olin.edu)*  
+*James Jang (Byumho.Jang@students.olin.edu)*  
+*Programming Languages*  
+*Fall 2016*  
 
-The goal of this project is to implement a functional object system, or at least the surface of it, including inheritance and polymorphism. The following list specific goals of this project that we will go into detail:
-1. Create class templates and objects from those classes. Classes should include states (instance variables) and behaviors (procedures).
-2. Superclass other classes and inherit all states and behaviors from that super class.
-3. Make uninstantiable abstract classes and leave implementation up to programmers.
-4. Exhibit correct polymorphism on objects that have a superclass reference.
+The goal of this project is to implement a functional object system, or at least the surface of it, including inheritance and polymorphism. The following list specific goals of this project that we will go into detail  :
+1. Create class templates and objects from those classes. Classes should include states (instance variables) and behaviors (procedures).  
+2. Superclass other classes and inherit all states and behaviors from that super class.  
+3. Make uninstantiable abstract classes and leave implementation up to programmers.  
+4. Exhibit correct polymorphism on objects that have a superclass reference.  
 
 ### Introduction
 
